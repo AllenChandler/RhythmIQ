@@ -1,0 +1,2 @@
+# RhythmIQ Git Ignore
+__pycache__/\n*.py[cod]\n.env/\n*.venv
